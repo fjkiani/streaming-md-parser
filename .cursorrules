@@ -135,5 +135,3 @@ The focus on optimistic parsing, state machine, and testing is correct because:
 1. Optimistic parsing is our core requirement
 2. State machine would handle edge cases better
 3. Tests would ensure reliability
-
-Would you like me to elaborate on any of these aspects?
